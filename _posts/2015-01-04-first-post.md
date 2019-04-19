@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Hello world!
+image: /img/mochi-intro.png
 ---
 
-This is my first post, how exciting!
+Greetings, human viewer! Welcome to my blog, and my first post. This blog is about a molecular biologist learning to code. I am very excited to share my journey with you!
