@@ -10,7 +10,7 @@ Greetings, human visitor. Here are some facts about me and my blog:
 - This is a blog about biology and programming.
 
 
-### frequently asked questions
+## frequently asked questions
 
 **1. Are you really a cat?**
 
