@@ -35,10 +35,10 @@ As for programming languages, we are currently have some proficiency in Unix, Py
 
 My human has a PhD in genetics, and is an expert in mouse genetics (yum!) and muscle biology. They are currently expanding their knowledge to epigenetics and technology development. You can read more about my human's work [here](https://scholar.google.com/citations?user=1h_8fukAAAAJ&hl=en).
 
-**5. What is your favorite food?
+**5. What is your favorite food?**
 
 If my human would let me out of the house, I would be interested in hunting birds. At my current state, I am partial to chicken and chicken-flavored treats.
 
-**6. What breed of cat are you?
+**6. What breed of cat are you?**
 
 I come from a shelter, so it's hard to say precisely what breed I am. I am a tabby / American shorthair. But here are my two bits of kibble: breeds are irrelevant. I am a coding cat, not a show cat! Adopt, don't shop!
