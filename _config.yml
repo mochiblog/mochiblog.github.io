@@ -24,11 +24,13 @@ description: Dr. Mochi's Code-Along Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  My Publications:
+    - Pubmed: "https://t.co/yxAws5AVkO"
+    - Google Scholar: "https://scholar.google.com/citations?user=1h_8fukAAAAJ&hl=en"
+    - GitHub: "https://github.com/bkcenik"
   Author's home: "http://deanattali.com"
+  Other Resources
+    - The Anti-Cruelty Society
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,13 +74,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "someone@example.com"
+  email: false
 # facebook: daattali
   github: bkcenik
   twitter: bkcenik
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: bercin-k-cenik
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
