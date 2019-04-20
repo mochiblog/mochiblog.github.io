@@ -5,9 +5,9 @@ subtitle: Bercin K Cenik, MD PhD
 ---
 
 ## **Bercin K. Cenik**
-Department of Biochemistry and Molecular Genetics\
-Feinberg School of Medicine, Northwestern University\
-320 E Superior Street, Chicago, IL 60611\
+Department of Biochemistry and Molecular Genetics  
+Feinberg School of Medicine, Northwestern University  
+320 E Superior Street, Chicago, IL 60611  
 E-mail: Bercin.Cenik[at]northwestern.edu
 
 ![bkc](https://pbs.twimg.com/profile_images/982346352846778369/xaIo-Z44_400x400.jpg)
@@ -16,33 +16,37 @@ E-mail: Bercin.Cenik[at]northwestern.edu
 
 #### 2013-2018
 Ph.D.				
-UT Southwestern Medical Center, Dallas, TX\
-Genetics, Development and Disease\
-Emphasis in Pharmacological Sciences\
+UT Southwestern Medical Center, Dallas, TX  
+Genetics, Development and Disease  
+Emphasis in Pharmacological Sciences  
 Mentor: Eric N. Olson, Ph.D.
         
 #### 2004-2010
-M.D.\
-Hacettepe University, Ankara, Turkey\
+M.D.  
+Hacettepe University, Ankara, Turkey  
 Medicine
 
 
 ### **Work Experience**
 
 #### 2018-present
-Postdoctoral Fellow	Northwestern University Feinberg School of Medicine\
-Department of Biochemistry and Molecular Genetics\
-Chicago, IL\
+Postdoctoral Fellow  
+Northwestern University Feinberg School of Medicine  
+Department of Biochemistry and Molecular Genetics  
+Chicago, IL  
 Mentor: Ali Shilatifard, PhD
 #### 2013-2018	
-Graduate Student	UT Southwestern Medical Center, Department of Molecular Biology, Dallas, TX\
+Graduate Student  
+UT Southwestern Medical Center, Department of Molecular Biology, Dallas, TX  
 Mentor: Eric Olson, PhD
 #### 2011-2013
-Research Assistant	UT Southwestern Medical Center,\ 
-Hamon Center for Therapeutic Oncology Research, Dallas, TX\
+Research Assistant  
+UT Southwestern Medical Center  
+Hamon Center for Therapeutic Oncology Research, Dallas, TX  
 Supervisor: Rolf A. Brekken, PhD
 #### 2006
-Medical Illustrator		Pleksus Web Design Company, Ankara, Turkey\
+Medical Illustrator  
+Pleksus Web Design Company, Ankara, Turkey  
 Supervisor: Aylin Gokduman
 
 ### **Selected Publications**
@@ -62,29 +66,34 @@ Supervisor: Aylin Gokduman
 ### **Awards and Fellowships**
 
 *Awards*
-2018\		
-Awardee\
-Annual William F. and Grace H. Kirkpatrick Award\
+
+2018  
+Awardee  
+Annual William F. and Grace H. Kirkpatrick Award  
 For the most scientifically meritorious fellowship proposal by a graduate student, UT Southwestern Medical Center, Graduate School of Biomedical Sciences
-2018	Nominee\ 
-Nominata Award for Excellence in Academic and Research Accomplishment\ 
-UT Southwestern Medical Center, Graduate School of Biomedical Sciences
-2017	
-Nominee\
-31st Annual Ida Green Award for Excellence in Graduate Studies\ 
-UT Southwestern Medical Center, Graduate School of Biomedical Sciences
-2016	
-Awardee\
-Leita Marsh Pharmacological Sciences Award\ 
+
+2018  
+Nominee  
+Nominata Award for Excellence in Academic and Research Accomplishment  
+UT Southwestern Medical Center, Graduate School of Biomedical Sciences  
+
+2017  
+Nominee  
+31st Annual Ida Green Award for Excellence in Graduate Studies   
+UT Southwestern Medical Center, Graduate School of Biomedical Sciences  
+
+2016  
+Awardee  
+Leita Marsh Pharmacological Sciences Award   
 Altrusa International of Dallas, TX Inc.
 
 
-*Fellowships*
-2017-2018\	
-American Heart Association\
+*Fellowships*  
+2017-2018  
+American Heart Association  
 AWRP Winter 2017 Predoctoral Fellowship (17PRE33650051)
 
-2014-2017\
-UT Southwestern NIH T32 Training Grant\
+2014-2017  
+UT Southwestern NIH T32 Training Grant  
 Pharmacological Sciences (5T32GM007062-41)
 
