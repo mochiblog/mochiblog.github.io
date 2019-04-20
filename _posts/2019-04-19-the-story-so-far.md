@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The story so far
+title: the story so far
 ---
 
 *Note: this post summarizes the resources I've been using to learn bioinformatics. It is a work-in-progress, and will be updated periodically.*
