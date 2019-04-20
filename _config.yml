@@ -25,7 +25,7 @@ description: Dr. Mochi's Code-Along Blog
 navbar-links:
   About:
     - About Mew (Mochi!): "aboutme"
-    - About Hooman: "cv"
+    - About Hooman: "CV"
   My Publications:
     - Pubmed: "https://t.co/yxAws5AVkO"
     - Google Scholar: "https://scholar.google.com/citations?user=1h_8fukAAAAJ&hl=en"
