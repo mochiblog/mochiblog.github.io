@@ -1,10 +1,9 @@
 ---
 layout: page
-title:
+title: CV
 subtitle: Bercin K Cenik, MD PhD
 ---
 
-## **Bercin K. Cenik**
 Department of Biochemistry and Molecular Genetics  
 Feinberg School of Medicine, Northwestern University  
 320 E Superior Street, Chicago, IL 60611  
